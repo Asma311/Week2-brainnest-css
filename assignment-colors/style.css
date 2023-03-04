@@ -1,0 +1,30 @@
+
+
+.colors{
+    background-color: pink;
+    margin:auto;
+    text-align: center;
+    width: 40%;
+}
+
+h1{
+    color: deeppink;
+    background-color: antiquewhite;
+
+}
+
+h2{
+    color:#6a5acd;
+    background-color: #faebd7;
+}
+
+h3{
+    color:rgb(57, 186, 222);
+    background-color: rgb(250, 235, 215);
+}
+
+h4{
+   color: hsl(300, 76%, 72%);
+   background-color: hsl(34, 78%, 91%);
+}
+
