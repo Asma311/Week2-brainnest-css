@@ -86,7 +86,7 @@ header {
     font-size:15px;
   }
 
-  img{
+  .hero img{
     width: 45%;
     height:fit-content;
     margin-top:23px;
